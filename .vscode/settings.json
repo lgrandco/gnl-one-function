@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+	"unistd.h": "c",
+	"fcntl.h": "c",
+	"libft.h": "c",
+	"string": "c",
+	"stdlib.h": "c",
+	"stdio.h": "c",
+	"get_next_line.h": "c"
+}
+}
